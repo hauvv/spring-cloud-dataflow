@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPRING-CLOUD.iml" filepath="$PROJECT_DIR$/.idea/SPRING-CLOUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-flow-server/spring-data-flow-server.iml" filepath="$PROJECT_DIR$/spring-data-flow-server/spring-data-flow-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-flow-shell/spring-data-flow-shell.iml" filepath="$PROJECT_DIR$/spring-data-flow-shell/spring-data-flow-shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-processor/spring-data-processor.iml" filepath="$PROJECT_DIR$/spring-data-processor/spring-data-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-sink/spring-data-sink.iml" filepath="$PROJECT_DIR$/spring-data-sink/spring-data-sink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-soure-application/spring-data-soure-application.iml" filepath="$PROJECT_DIR$/spring-data-soure-application/spring-data-soure-application.iml" />
+    </modules>
+  </component>
+</project>
